@@ -1,4 +1,4 @@
-# Image Steganography App Using LSB (Least Significant Method) Modification
+# Image Steganography App Using LSB (Least Significant Bit Method) Modification
 
 ## Project Overview
 
