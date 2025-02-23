@@ -38,3 +38,10 @@ This project is an **Image Steganography App** built using Python and Streamlit,
 2. **Passcode Verification:** Extract stored passcode from the image and verify.
 3. **Message Extraction:** If passcode is valid, extract the hidden message.
 4. **Output:** Display decrypted message.
+
+## Technologies Used
+
+- Python: Core programming language.
+- OpenCV: Image processing and manipulation.
+- NumPy: Efficient numerical operations on image data.
+- Streamlit: Interactive web interface for the app.
